@@ -4,10 +4,10 @@ Este projeto tem como finalidade apresentar, por meio de um site, os principais 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- ⚛️ **[React](https://reactjs.org/)** — Biblioteca JavaScript para interfaces reativas
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) — Biblioteca JavaScript para interfaces reativas
 - ⚡ **[Vite](https://vitejs.dev/)** — Build tool para desenvolvimento rápido
-- 🌐 **[Vercel](https://vercel.com/)** — Plataforma para deploy contínuo
-- 💅 **CSS** — Estilização das páginas
+- **![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)** — Plataforma para deploy contínuo
+- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) — Estilização das páginas
 - 🧩 **JavaScript** — Lógica da aplicação
 - 🏷️ **HTML** — Estrutura do conteúdo
 
