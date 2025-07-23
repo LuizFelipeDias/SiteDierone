@@ -1,6 +1,6 @@
 # 📦 Projeto: Visualização de Estruturas de Dados
 
-Este projeto tem como finalidade apresentar, por meio de um site, os principais **tipos de estruturas de dados**, utilizando ferramentas e tecnologias modernas.
+Este projeto tem como finalidade apresentar, por meio de um site, os principais **tipos de estruturas de dados**, as ferramnetas e linguagens foram usadas de acordo com a familiaridade elas.
 
 ## 🛠️ Tecnologias Utilizadas
 
